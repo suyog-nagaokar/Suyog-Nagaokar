@@ -2,8 +2,8 @@
 title: Welcome to my profile
 ---
 
-<h4> SnowPro Core Certified ! </h4>
-<h4> Certified Big Data Engineer - IIT Roorkee </h4>
+** SnowPro Core Certified ! **
+** Certified Big Data Engineer - IIT Roorkee **
 
 I am a purveyor of competitive intelligence and holistic analyses of Big Data,
 A passionate Hadoop and Spark Developer / Architect leveraging Big data and Cloud technology to help businesses understand their customers' behavior and generate meaningful insights to elevate the revenue.
