@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **End-to-End Cloud solutioning**
 
-- 💬 Ask me about **Big Data, Spark, DBT, Snowflake, Cloud**
+- 💬 Ask me about **Big Data, Spark, DBT, Snowflake, Cloud, SQL**
 
 - 📫 How to reach me **suyognn@gmail.com**
 
