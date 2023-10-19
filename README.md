@@ -1,4 +1,4 @@
-[![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)
+![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)
 <h1 align="center">Hi 👋, I'm Suyog Nagaokar</h1>
 <h3 align="center">A passionate Lead Data Engineer with 11 years experience</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/90/45/35/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
