@@ -1,15 +1,15 @@
 ![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)
 <h1 align="center">Hi 👋, I'm Suyog Nagaokar</h1>
-<h3 align="center">A passionate Lead Data Engineer with 11 years experience</h3>
+<h3 align="center">A passionate Staff Data Engineer with ~13 years experience</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/90/45/35/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog-nagaokar&label=Profile%20views&color=0e75b6&style=flat" alt="suyog-nagaokar" /> </p>
 
 - 🔭 I’m currently working on **providing awesome Data Engineering solutions to businesses and help them alleviate their revenue**
 
-- 🌱 I’m currently learning **End-to-End Cloud solutioning**
+- 🌱 I’m currently learning **ClickHouse**
 
-- 💬 Ask me about **Big Data, Spark, DBT, Snowflake, Cloud, SQL**
+- 💬 Ask me about **Big Data, PySpark, DBT, AWS, SQL**
 
 - 📫 How to reach me **suyognn@gmail.com**
 
