@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suyognn@gmail.com**
 
-- 📄 Know about my experiences [https://indigo-cookie-59.tiiny.site](https://indigo-cookie-59.tiiny.site)
+- 📄 Know about my experiences [[https://indigo-cookie-59.tiiny.site](https://indigo-cookie-59.tiiny.site)](https://myresume-ff5f60.tiiny.site)
 
 - ⚡ Fun fact **I can do card magic !**
 
